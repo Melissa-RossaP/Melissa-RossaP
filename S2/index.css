@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.container {
+    padding: 0px 50px;
+}
