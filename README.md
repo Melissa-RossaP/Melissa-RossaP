@@ -4,7 +4,7 @@
 
 • Aprendendo a programar aos poucos!
 
-• Estudante da 1° série do ensino médio.
+• Estudante da 2° série do ensino médio.
 
 **Contato:**
 
