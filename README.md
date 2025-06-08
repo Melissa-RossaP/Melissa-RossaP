@@ -6,10 +6,6 @@
 
 • Estudante da 2° série do ensino médio.
 
-**Contato:**
-
-✉️ melissarossap@gmail.com 
-
 
 
 
