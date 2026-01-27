@@ -1,6 +1,7 @@
 ## ***Melissa*** 💫✨
  
 👋 Oi! Eu sou a Melli🎧!
+
 📚 Estudante da 3° série do ensino médio  
 💻 Apaixonada por tecnologia e curiosa por novas experiências  
 🌍 Intercambista PGM 2025 - Inglaterra  
