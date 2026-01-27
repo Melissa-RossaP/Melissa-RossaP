@@ -24,4 +24,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melissarossap@gmail.com)
 
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXB4ZnBhNHV6M2dvemt6a3Y3dXY1OXplZTZhejFrcjN5YTFvbjFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OYnFrez06yQt9zJFW/giphy.gif" width="220" alt="Porquinho-da-Índia Fofo"/>
+</p>
