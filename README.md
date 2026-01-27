@@ -1,10 +1,13 @@
-## ***Melissa*** 💫
+## ***Melissa*** 💫✨
+ 
+👋 Oi! Eu sou a Melli🎧!
+📚 Estudante da 3° série do ensino médio  
+💻 Apaixonada por tecnologia e curiosa por novas experiências  
+🌍 Intercambista PGM 2025 - Inglaterra  
 
-• Aprendendo a programar aos poucos!  
-• Estudante da 3° série do ensino médio.  
-• Apaixonada por tecnologia e curiosa por novas experiências!  
+💡 Gosto de estudar e lidar com programação, por mais que não seja tão boa, consigo aprender e evoluir nesse meio tempo! 💻  
 
-### 💻 Tecnologias e Ferramentas
+### 🔹 Tecnologias e Ferramentas  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,10 +17,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📫 Contato
+### 📫 Contato   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissarossap/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m3l.r1) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melissarossap@gmail.com)
 
 
-![gatinho](https://media1.tenor.com/m/cdgu_rxP5vwAAAAd/cat-hiss.gif)
