@@ -35,6 +35,12 @@ Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
 
 
 
+Design 🎨
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
 ### 📫 Contato   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissarossap/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m3l.r1) 
