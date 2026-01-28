@@ -9,9 +9,9 @@
 💡 Gosto de estudar e lidar com programação, por mais que não seja tão boa, estou em constante aprendizado e evolução na área! 💻  
 
 
-### 🔹 Tecnologias e Linguagens 
-Tenho boa base em HTML, CSS e C++, utilizados em projetos escolares e de robótica 🤖.  
-Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
+### 🔹 Tecnologias e Linguagens;
+Tenho boa base em HTML, CSS e C++, utilizados em projetos escolares e de robótica.  
+Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript.
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -24,7 +24,7 @@ Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
 
 
 
-### 🔹 Ferramentas  
+### 🔹 Ferramentas;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,13 +35,14 @@ Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
 
 
 
-Design 🎨
+### 🔹 Design;
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
 
-### 📫 Contato   
+### 🔹 Contato;   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissarossap/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m3l.r1) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melissarossap@gmail.com)
