@@ -8,8 +8,9 @@
 
 💡 Gosto de estudar e lidar com programação, por mais que não seja tão boa, estou em constante aprendizado e evolução na área! 💻  
 
+
 ### 🔹 Tecnologias e Linguagens 
-💡 Tenho boa base em HTML, CSS e C++, utilizados em projetos escolares e de robótica 🤖.  
+Tenho boa base em HTML, CSS e C++, utilizados em projetos escolares e de robótica 🤖.  
 Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
 
 
@@ -21,6 +22,8 @@ Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+
 ### 🔹 Ferramentas  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,6 +32,8 @@ Atualmente estou em aprendizado e evolução em Python, SQL e JavaScript 📈.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DB Browser](https://img.shields.io/badge/DB%20Browser%20for%20SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 
 ### 📫 Contato   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissarossap/) 
