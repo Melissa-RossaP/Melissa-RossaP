@@ -44,6 +44,7 @@
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
 ![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![DB%20Browser](https://img.shields.io/badge/DB_Browser_for_SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
