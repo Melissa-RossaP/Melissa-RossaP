@@ -4,17 +4,18 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Brazil-009739?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/Programming-800020?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/England-C8102E?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Development-9B111E?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Technology-800020?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technology-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Open_to-Learning-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_Source-800020?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 
 <br><br>
 
-> *Technology & Programming Student* <br>
+> ### *Technology Enthusiast*
+>
 > *Building projects and exploring new possibilities through code.*
 
 </div>
@@ -23,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### Tecnologias e Linguagens
+### Technology Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -35,7 +36,7 @@
 
 <br>
 
-### Ferramentas
+### Tools & Technologies
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -50,11 +51,25 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### Design
 
-### GitHub Statistics
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+### GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melissa-RossaP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-RossaP&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br>
+
+### GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Melissa-RossaP&bg_color=0D1117&color=800020&line=800020&point=FFFFFF&area=true&hide_border=true" width="95%"/>
@@ -64,7 +79,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### Contato
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/melissarossap/)
 
@@ -76,9 +91,8 @@
 
 <div align="center">
 
-### *"Always learning, always evolving."*
+> ### *"Always learning, always evolving."*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
-
