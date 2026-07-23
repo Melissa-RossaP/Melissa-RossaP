@@ -2,14 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=220&section=header&text=Melissa%20Rossa&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Technology%20%E2%80%A2%20Programming%20%E2%80%A2%20Web%20Development&descAlignY=55&descSize=18"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+a+Melissa.;Apaixonada+por+Tecnologia+e+Programação.;Transformando+ideias+em+projetos.;Always+learning%2C+always+evolving." />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="270"/>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Brazil-009739?style=for-the-badge&logo=googleearth&logoColor=white"/>
@@ -58,21 +50,9 @@
 
 <br>
 
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Melissa-RossaP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissa-RossaP&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
 
 <br>
 
